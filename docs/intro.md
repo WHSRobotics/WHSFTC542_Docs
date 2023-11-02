@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# FTC 542 Starting Docs
+# FTC 542 Introductory Docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's learn how to code a **FTC Robot (Start to end) in less than 15 hours**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by completing **CodeCademy's Learn Java Course** Even if you are familiar with Java, its a good idea to revise this course to enrich your understanding of Java.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Here's the link **[codecademy.com](https://www.codecademy.com/learn/learn-java)**.
 
 ### What you'll need
 
